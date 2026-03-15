@@ -47,11 +47,14 @@ broader Xenia community, especially
 ## Downloads
 
 Download XeniOS from
-[GitHub Releases](https://github.com/xenios-jp/XeniOS/releases).
 
 - [Latest GitHub release](https://github.com/xenios-jp/XeniOS/releases/latest)
-- [All GitHub releases](https://github.com/xenios-jp/XeniOS/releases)
 
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 16px; flex-wrap: wrap;">
+   <a href="https://stikstore.app/altdirect/?url=https://stikdebug.xyz/index.json" target="_blank">
+     <img src="https://github.com/stikstore/altdirect/blob/main/assets/png/AltSource_Blue.png" alt="Add AltSource" width="200">
+   </a>
+</div>
 ## Quickstart
 
 Start with the public docs at [xenios.jp/docs](https://xenios.jp/docs).
