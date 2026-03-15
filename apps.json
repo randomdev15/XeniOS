@@ -1,7 +1,6 @@
 {
   "name": "XeniOS",
   "identifier": "com.xenios.emu",
-  "subtitle": "XeniOS - Xbox 360 Emulator for iOS."
   "apps": [
     {
       "name": "XeniOS",
