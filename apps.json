@@ -1,15 +1,18 @@
 {
   "name": "XeniOS",
   "identifier": "com.xenios.emu",
-  "description": "XeniOS is an experimental Xbox 360 emulator for iOS, bringing early Xbox 360 game emulation to iPhone and iPad. It focuses on accuracy, performance, and rapid development, with compatibility improving over time as the project evolves."
+  "description": "XeniOS is an experimental Xbox 360 emulator for iOS, bringing early Xbox 360 game emulation to iPhone and iPad. It focuses on accuracy, performance, and rapid development, with compatibility improving over time as the project evolves.",
   "apps": [
     {
       "name": "XeniOS",
       "bundleIdentifier": "com.xenios.emu",
-      "version": "v1.0.1",
-      "downloadURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v1.0.1-build-9288/xenios_ios_iphone_ipad.ipa"
-      "iconURL": "https://github.com/xenios-jp/XeniOS/blob/xenios/assets/apple/xenios-readme-icon.png",
-      "description": "XeniOS - Xbox 360 Emulator for iOS."
+      "developerName": "xenios-jp",
+      "version": "1.0.1",
+      "versionDate": "2026-03-13",
+      "downloadURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v1.0.1-build-9288/xenios_ios_iphone_ipad.ipa",
+      "iconURL": "https://raw.githubusercontent.com/xenios-jp/XeniOS/xenios/assets/apple/xenios-readme-icon.png",
+      "localizedDescription": "XeniOS - Xbox 360 Emulator for iOS.",
+      "size": 0
     }
   ]
 }
