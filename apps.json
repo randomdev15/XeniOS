@@ -1,7 +1,7 @@
 {
   "name": "XeniOS",
   "identifier": "com.xenios.emu",
-  "subtitle": "XeniOS - An Xbox 360 Emulator • Now on AltStore!",
+  "subtitle": "XeniOS - An Xbox 360 Emulator, Now on AltStore!",
   "description": "XeniOS is an experimental Xbox 360 emulator for iOS, bringing early Xbox 360 game emulation to iPhone and iPad. It focuses on accuracy, performance, and rapid development, with compatibility improving over time as the project evolves.",
   "apps": [
     {
